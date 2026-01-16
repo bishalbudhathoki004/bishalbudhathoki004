@@ -36,7 +36,6 @@ I'm a passionate developer currently pursuing my **Bachelors in Computer Applica
 - 🔭 **I’m currently working on:** Building modern web page projects for my portfolio.
 - 📚 **I’m currently learning:** Deep diving into **Advanced JavaScript** and **Java**.
 - 💼 **I’m looking for:** **Internship** opportunities to grow as a developer.
-- ⚡ **Fun Fact:** My brain has too many tabs open—usually at least 5 of them are Stack Overflow. 🧠🌐
 
 ---
 
