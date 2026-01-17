@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Bishal Budhathoki </h1>
 
 <h3 align="center">
-  BCA Student • Aspiring Full-Stack Developer • Kathmandu, Nepal 🇳🇵
+  BCA Student • Kathmandu, Nepal 🇳🇵
 </h3>
 
 <p align="center">
