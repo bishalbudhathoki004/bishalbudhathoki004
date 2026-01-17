@@ -5,7 +5,6 @@
     alt="Hi, I'm Bishal Budhathoki" 
   />
 </h1>
-
 <h3 align="center">
   BCA Student • Kathmandu, Nepal 🇳🇵
 </h3>
