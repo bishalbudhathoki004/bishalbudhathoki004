@@ -4,11 +4,10 @@
     src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&duration=3500&pause=2000&color=0AEFFF&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Bishal+Budhathoki" 
     alt="Hi, I'm Bishal Budhathoki" 
   />
-</h1>
 <h3 align="center">
   BCA Student • Kathmandu, Nepal 🇳🇵
 </h3>
-
+</h1>
 ---
 
 ## 👨‍💻 About Me
