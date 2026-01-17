@@ -46,10 +46,6 @@
   <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bishalbudhathoki004&layout=compact&theme=radical" />
 </p>
 
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=bishalbudhathoki004&theme=radical" />
-</p>
-
 ---
 
 ## 🏆 Achievements & Goals
