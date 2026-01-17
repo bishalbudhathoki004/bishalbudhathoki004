@@ -1,17 +1,14 @@
 <!-- ===================== PROFILE HEADER ===================== -->
 <h1 align="center">
-  Hi, I'm 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=800&color=F75C7E&center=false&vCenter=true&width=380&lines=Bishal+Budhathoki" />
-  👋
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&duration=3500&pause=2000&color=0AEFFF&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Bishal+Budhathoki" 
+    alt="Hi, I'm Bishal Budhathoki" 
+  />
 </h1>
 
 <h3 align="center">
   BCA Student • Kathmandu, Nepal 🇳🇵
 </h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Web+Developer+in+Progress;React+%7C+Node.js+%7C+MongoDB;Clean+UI+%7C+Strong+Logic;Always+Learning+New+Tech" />
-</p>
 
 ---
 
@@ -50,10 +47,6 @@
   <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bishalbudhathoki004&layout=compact&theme=radical" />
 </p>
 
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=bishalbudhathoki004&theme=radical" />
-</p>
-
 ---
 
 ## 🏆 Achievements & Goals
@@ -77,10 +70,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
 
 <p align="center">
   ⭐ If you like my work, consider starring my repositories!
