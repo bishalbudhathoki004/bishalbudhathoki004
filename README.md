@@ -59,15 +59,6 @@
 - 🎯 Learning backend optimization & authentication  
 - 🎯 Exploring system design & clean architecture  
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bishalbudhathoki004/bishalbudhathoki004/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
