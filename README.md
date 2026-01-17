@@ -1,7 +1,5 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">
-  Hi, I'm Bishal Budhathoki 👋
-</h1>
+<!-- ===================== PROFILE HEADER ===================== -->
+<h1 align="center">Hi, I'm Bishal Budhathoki 👋</h1>
 
 <h3 align="center">
   BCA Student • Aspiring Full-Stack Developer • Kathmandu, Nepal 🇳🇵
@@ -36,7 +34,7 @@
 
 ### 🧰 Tools & Design
 <p>
-  <img src="https://skillicons.dev/icons?i=git,figma,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
 </p>
 
 ---
@@ -54,12 +52,20 @@
 
 ---
 
-## 🏆 Achievements & Learning Goals
+## 🏆 Achievements & Goals
 
 - ✅ Building responsive web applications  
-- ✅ Practicing **MERN stack** projects  
+- ✅ Practicing **MERN Stack** projects  
 - 🎯 Learning backend optimization & authentication  
-- 🎯 Exploring system design & software architecture  
+- 🎯 Exploring system design & clean architecture  
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bishalbudhathoki004/bishalbudhathoki004/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
@@ -72,14 +78,6 @@
   <a href="mailto:bishalbudhathoki04@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
----
-
-## 🐍 Contribution Graph Animation
-
-<p align="center">
-  <img src="https://github.com/bishalbudhathoki004/bishalbudhathoki004/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
