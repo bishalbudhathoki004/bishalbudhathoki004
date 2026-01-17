@@ -5,10 +5,6 @@
   BCA Student • Kathmandu, Nepal 🇳🇵
 </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Web+Developer+in+Progress;React+%7C+Node.js+%7C+MongoDB;Passionate+about+Clean+UI+and+Logic;Always+Learning+New+Tech" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
