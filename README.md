@@ -1,7 +1,11 @@
 <!-- ===================== PROFILE HEADER ===================== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/typing.gif" width="0" />
+</p>
+
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=36&duration=3500&pause=2000&color=4CAF50&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Bishal+Budhathoki" 
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=38&pause=999999&repeat=false&color=00796B&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Bishal+Budhathoki" 
     alt="Hi, I'm Bishal Budhathoki" 
   />
 </h1>
@@ -11,7 +15,9 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Web+Developer+in+Progress;React+%7C+Node.js+%7C+MongoDB;Passionate+about+Clean+UI+and+Logic;Always+Learning+New+Tech" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1500&color=455A64&center=true&vCenter=true&width=700&lines=Web+Developer+in+Progress;React+%7C+Node.js+%7C+MongoDB;Clean+UI+%7C+Strong+Logic;Always+Learning+New+Tech" 
+  />
 </p>
 
 ---
@@ -81,6 +87,4 @@
 
 <p align="center">
   ⭐ If you like my work, consider starring my repositories!
-</p>
- starring my repositories!
 </p>
