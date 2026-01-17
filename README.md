@@ -29,16 +29,6 @@ I'm a passionate developer currently pursuing my **Bachelors in Computer Applica
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
----
-
-### 🌱 What I'm Up To
-
-- 🔭 **I’m currently working on:** Building modern web page projects for my portfolio.
-- 📚 **I’m currently learning:** Deep diving into **Advanced JavaScript** and **Java**.
-- 💼 **I’m looking for:** **Internship** opportunities to grow as a developer.
-
----
-
 ### 📊 My GitHub Stats
 
 <p align="left">
