@@ -40,12 +40,12 @@
 
 ### 🌐 Frontend & Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs," />
 </p>
 
 ### 🧰 Tools & Design
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,EmailJS,vscode" />
 </p>
 
 ---
